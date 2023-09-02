@@ -1,6 +1,8 @@
 # chat-app-order
 An in-development web based chat application project inspired by Discord.
 
+Run serv.py to launch the server. Make sure socketio for python is installed.
+
 Three accounts are already made available(UserA, UserB, UserC with password a,b,c respectively).
 
 You can remove history by clearing log.txt, and remove accounts by clearing accs.json(remember to leave a pair of curly braces'{}' behind, and to clear profile pictures in /files/pfp).
